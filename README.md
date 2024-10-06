@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm ridouane Tansouft 👋
+Frontend developer at Bouygues Telecom
 <!--
 **Ridouane18/Ridouane18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
